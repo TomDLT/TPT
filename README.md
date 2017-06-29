@@ -1,2 +1,2 @@
 # TPT
-A fuzzy list of tools
+Check the [wiki page](https://github.com/TomDLT/TPT/wiki)
