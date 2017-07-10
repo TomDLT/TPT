@@ -2,6 +2,8 @@
 
 This is a list of things you should know it exists.
 
+Please [edit this page](https://github.com/TomDLT/TPT/edit/master/README.md) if you have useful links or scripts to share.
+
 ## TPT administration
 - [Eole](https://eole.telecom-paristech.fr/accueil.php): TPT intranet (_in french_)
     - You can book a meeting room, find paperwork for travelling to conferences, ...
@@ -58,7 +60,7 @@ This is a list of things you should know it exists.
 - Awesomeness: [list of links](https://github.com/kirang89/pycrumbs)
 
 ## Matlab
-- Please [edit this wiki](https://github.com/TomDLT/TPT/wiki/Home/_edit) if you have useful links to share, or tips to use Matlab in TPT.
+- Please [edit this page](https://github.com/TomDLT/TPT/edit/master/README.md) if you have useful links to share, or tips to use Matlab in TPT.
 
 ## Research tools
 - [Sci-Hub](http://sci-hub.cc/): Free access to most scientific papers
