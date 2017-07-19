@@ -37,6 +37,7 @@ Please [edit this page](https://github.com/TomDLT/TPT/edit/master/README.md) if 
     - If you need the gpu, or if you need help with these machines, ask nicolas.bouche@imt.fr
 - [IDS cluster](http://www.cluster.enst.fr/): A cluster you can access by ssh, but you need to use the queue.
     - Please read the doc before using it ! (_in french_)
+- [TP rooms](https://www.telecom-paristech.fr/vivre-ecole/services-numeriques-dsi/salles-de-tp/equipements.html): list of computers available from 8.00 AM to 11.59 PM, if not in used by students.
 
 ## Working tools
 - [Git](https://git-scm.com/): Must-have version control tool
