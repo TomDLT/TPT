@@ -39,6 +39,7 @@ Please [edit this page](https://github.com/TomDLT/TPT/edit/master/README.md) if 
     - Please read the doc before using it ! (_in french_)
 - [TP rooms](https://www.telecom-paristech.fr/vivre-ecole/services-numeriques-dsi/salles-de-tp/equipements.html): list of desktops available from 8.00 AM to 11.59 PM, if not in used by students.
 - [IDS desktops](https://intranet.tsi.telecom-paristech.fr/pcs_linux/stations/stations.html):  list of desktops of the departement IDS
+- [VPN](http://www.telecom-paristech.fr/fileadmin/documents/images/Vivre_ecole/services_numeriques/Documentation/PPTP_Linux.pdf) for accessing scientific papers from outside Telecom ParisTech ... legally. Or if you want to pretend you are in France when you are in India.
 
 ## Working tools
 - [Git](https://git-scm.com/): Must-have version control tool
