@@ -2,9 +2,9 @@
 
 For embarrassingly parallel research, `joblib` is a very easy-to-use python package. It's used internally inside `scikit-learn`.
 In TPT, to have more computational power that your laptop, you can SSH to a cluster (e.g. `lame10`) with up to 80 cores.
-- But the cluster is often overloaded.
+- What if the cluster is often overloaded?
 - What if you need even more computational power?
-- What if I don't have a cluster, but you have easy SSH access to many small machines? (e.g. in the TP room)
+- What if you don't have a cluster, but you have easy SSH access to many small machines? (e.g. in the TP room)
 
 Recently, `dask-distributed` implemented a `joblib` backend, which makes it very easy to use if you are familiar with `joblib`.
 The cool part is that your python script will (almost) not change.
