@@ -1,10 +1,10 @@
 # Tutorial: How to use `dask-distributed` to manage a pool of workers on multiple machines, and use them in `joblib`
 
-For embarrassingly parallel research, `joblib` is a very easy-to-use python package. It's used internally inside `scikit-learn`.
-In TPT, to have more computational power that your laptop, you can SSH to a cluster (e.g. `lame10`) with up to 80 cores.
+For embarrassingly parallel experiments, `joblib` is a very easy-to-use python package. It is used for instance internally in `scikit-learn` for parallel grid search and cross-validation.
+In TPT, to have more computational power than your laptop, you can SSH to a cluster (e.g. `lame10`) with up to 80 cores.
 - What if the cluster is often overloaded?
 - What if you need even more computational power?
-- What if you don't have a cluster, but you have easy SSH access to many small machines? (e.g. in the [TP rooms](https://www.telecom-paristech.fr/vivre-ecole/services-numeriques-dsi/salles-de-tp/equipements.html))
+- What if you have easy SSH access to many small machines? (e.g. in the [TP rooms](https://www.telecom-paristech.fr/vivre-ecole/services-numeriques-dsi/salles-de-tp/equipements.html))
 
 Recently, `dask-distributed` implemented a `joblib` backend, which makes it very easy to use if you are familiar with `joblib`.
 The cool part is that your python script will (almost) not change.
@@ -187,7 +187,7 @@ matplotlib.use('agg')
 ```
 
 Again, this command works only _before_ importing `matplotlib.pyplot`.
-Hoqever, for some obscure reasons, this may fail.
+However, for some obscure reasons, this may fail.
 You may have more luck with this command instead:
 
 ```python
@@ -197,14 +197,14 @@ plt.switch_backend('agg')
 
 ## How to create a different number of worker in each server
 
-In the previous command, the number of processes (`--nprocs 1`) is identical in all servers.
+In the bash command `dask-ssh`, the number of processes (`--nprocs 1`) is identical in all servers.
 To have a different number of processes in each server, we need to customize `dask-ssh`.
 
 The command `dask-ssh` is just a shortcut to a python script,
 [dask-ssh.py](https://github.com/dask/distributed/blob/master/distributed/cli/dask_ssh.py),
 so let's copy it and customize it.
 
-Let's assume we want give the servers as a list of hostnames and integers.
+Let's assume we want to give the servers as a list of hostnames and integers.
 
 ```
 localhost 3
