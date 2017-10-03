@@ -16,6 +16,7 @@ Please [edit this page](https://github.com/TomDLT/TPT/edit/master/README.md) if 
 
 ## TPT account
 - [Your account](https://moncompte.telecom-paristech.fr//mon_compte/): Some information about your TPT account (_in french_)
+    - You can change your passwoprd, set up wifi connexions for guests, ...
 - [DSI](https://www.telecom-paristech.fr/vivre-ecole/services-numeriques-dsi.html): Many information about the services of the DSI (the IT department) (_in french_)
 - [SOS](https://sos.telecom-paristech.fr/front/helpdesk.public.php): You can ask any question to the DSI about your account, your desktop, the wifi, ... 
 - Personal website: The DSI can host your personal website at `https://perso.telecom-paristech.fr/your_login`. Activate it from [your account](https://moncompte.telecom-paristech.fr//mon_compte/), and store the files in `~/public_html`.
