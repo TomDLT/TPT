@@ -1,8 +1,8 @@
 # Welcome to Telecom ParisTech
 
-This is a list of things you should know it exists.
+This is a list of practical links for working at TPT.
 
-Please [edit this page](https://github.com/TomDLT/TPT/edit/master/README.md) if you have useful links or scripts to share.
+Please edit this page if you have useful links or scripts to share.
 
 ## TPT administration
 - [Eole](https://eole.telecom-paristech.fr/accueil.php): TPT intranet (_in french_)
@@ -16,7 +16,7 @@ Please [edit this page](https://github.com/TomDLT/TPT/edit/master/README.md) if 
 
 ## TPT account
 - [Your account](https://moncompte.telecom-paristech.fr//mon_compte/): Some information about your TPT account (_in french_)
-    - You can change your passwoprd, set up wifi connexions for guests, ...
+    - You can change your password, set up wifi connexions for guests, ...
 - [DSI](https://www.telecom-paristech.fr/vivre-ecole/services-numeriques-dsi.html): Many information about the services of the DSI (the IT department) (_in french_)
 - [SOS](https://sos.telecom-paristech.fr/front/helpdesk.public.php): You can ask any question to the DSI about your account, your desktop, the wifi, ... 
 - Personal website: The DSI can host your personal website at `https://perso.telecom-paristech.fr/your_login`. Activate it from [your account](https://moncompte.telecom-paristech.fr//mon_compte/), and store the files in `~/public_html`.
@@ -40,7 +40,8 @@ Please [edit this page](https://github.com/TomDLT/TPT/edit/master/README.md) if 
     - Please read the doc before using it ! (_in french_)
 - [TP rooms](https://www.telecom-paristech.fr/vivre-ecole/services-numeriques-dsi/salles-de-tp/equipements.html): list of desktops available from 8.00 AM to 11.59 PM, if not in used by students.
 - [IDS desktops](https://intranet.tsi.telecom-paristech.fr/pcs_linux/stations/stations.html):  list of desktops of the departement IDS
-- [VPN](http://www.telecom-paristech.fr/fileadmin/documents/images/Vivre_ecole/services_numeriques/Documentation/PPTP_Linux.pdf) for accessing scientific papers from outside Telecom ParisTech ... legally. Or if you want to pretend you are in France when you are in India.
+- [VPN](http://www.telecom-paristech.fr/fileadmin/documents/images/Vivre_ecole/services_numeriques/Documentation/PPTP_Linux.pdf): for accessing scientific papers from outside Telecom ParisTech ... legally. Or if you want to pretend you are in France when you are in India.
+- [Jupyter notebook](https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh): remote access via SSH
 
 ## Working tools
 - [Git](https://git-scm.com/): Must-have version control tool
@@ -63,11 +64,8 @@ Please [edit this page](https://github.com/TomDLT/TPT/edit/master/README.md) if 
 - Editors: sublime_text/atom, spyder/pycharm (Matlab style)
 - Awesomeness: [list of links](https://github.com/kirang89/pycrumbs)
 
-## Jupyter notebook
-- [remote access to a notebook](https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh)
-
 ## Matlab
-- Please [edit this page](https://github.com/TomDLT/TPT/edit/master/README.md) if you have useful links to share, or tips to use Matlab in TPT.
+- Please edit this page if you have useful links to share, or tips to use Matlab in TPT.
 
 ## Research tools
 - [Sci-Hub](http://sci-hub.cc/): Free access to most scientific papers
