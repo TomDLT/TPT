@@ -36,8 +36,10 @@ Please edit this page if you have useful links or scripts to share.
     - lame17-19: You need to install what you need, your home is not accessible.
     - lame20-22: You can book these machines on [this wesite](https://reservation.r2.enst.fr/app/Web/view-schedule.php).
     - If you need the gpu, or if you need help with these machines, ask nicolas.bouche@imt.fr
+    - more info [here](https://services.infres.enst.fr/services/infres/servers.html) (_in french_)
 - [IDS cluster](http://www.cluster.enst.fr/): A cluster you can access by ssh, but you need to use the queue.
     - Please read the doc before using it ! (_in french_)
+- [Computing Doc](https://computingdoc.telecom-paristech.fr/PageAccueil): A wiki with limited information on TPT clusters.
 - [TP rooms](https://www.telecom-paristech.fr/vivre-ecole/services-numeriques-dsi/salles-de-tp/equipements.html): list of desktops available from 8.00 AM to 11.59 PM, if not in used by students.
 - [IDS desktops](https://intranet.tsi.telecom-paristech.fr/pcs_linux/stations/stations.html):  list of desktops of the departement IDS
 - [VPN](http://www.telecom-paristech.fr/fileadmin/documents/images/Vivre_ecole/services_numeriques/Documentation/PPTP_Linux.pdf): for accessing scientific papers from outside Telecom ParisTech ... legally. Or if you want to pretend you are in France when you are in India.
