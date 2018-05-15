@@ -18,7 +18,7 @@ Please edit this page if you have useful links or scripts to share.
 - [Your account](https://moncompte.telecom-paristech.fr//mon_compte/): Some information about your TPT account (_in french_)
     - You can change your password, set up wifi connexions for guests, ...
 - [DSI](https://www.telecom-paristech.fr/vivre-ecole/services-numeriques-dsi.html): Many information about the services of the DSI (the IT department) (_in french_)
-- [SOS](https://sos.telecom-paristech.fr/front/helpdesk.public.php): You can ask any question to the DSI about your account, your desktop, the wifi, ... 
+- [SOS](https://sos.telecom-paristech.fr/front/helpdesk.public.php): You can ask any question to the DSI about your account, your desktop, the wifi, ...
 - Personal website: The DSI can host your personal website at `https://perso.telecom-paristech.fr/your_login`. Activate it from [your account](https://moncompte.telecom-paristech.fr//mon_compte/), and store the files in `~/public_html`.
     - GitHub can also [host](https://pages.github.com/) your personal website at `https://your_github_login.github.io/`
 - Home: Your home directory is accessible from most machines in TPT, but its size is limited to ~8 Gbytes
@@ -48,12 +48,13 @@ Please edit this page if you have useful links or scripts to share.
 ## Working tools
 - [Git](https://git-scm.com/): Must-have version control tool
     - [Tutorial](https://git-scm.com/docs/gittutorial), [Cheat-sheet](https://www.git-tower.com/blog/git-cheat-sheet/), [Development workflow](https://docs.scipy.org/doc/numpy/dev/gitwash/development_workflow.html)
-- [GitHub](https://github.com/): Host your git repositories online. 
+- [GitHub](https://github.com/): Host your git repositories online.
     - As a student/academic, you can ask for a [free developer plan](https://education.github.com/pack), to have unlimited private repos.
     - Alternatively, you can use [GitLab](https://gitlab.telecom-paristech.fr/users/sign_in), hosted by TPT (you need to raise a [sos ticket](https://sos.telecom-paristech.fr/front/helpdesk.public.php) to create a project)
 - [Linux commands](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md): Selection of notes and tips on using the command-line.
     - [Shell command explained](https://explainshell.com/)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh): Customize your shell to have colors, current git branch, current environnement, ...
+- [screen](https://www.linode.com/docs/networking/ssh/using-gnu-screen-to-manage-persistent-terminal-sessions/): Keep your process running even if you close your terminal or close your ssh connection.
 
 ## Python tools
 - [Anaconda](https://www.continuum.io/downloads): A good way to have everything you need for python
