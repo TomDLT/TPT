@@ -170,7 +170,7 @@ with parallel_backend('dask.distributed',
     print(np.array(results))
 ```
 
-More details in [dask-distributed doc](https://distributed.readthedocs.io/en/latest/joblib.html)
+More details in [dask-distributed doc](https://ml.dask.org/joblib.html)
 
 ## How to generate figure in a distant worker
 
