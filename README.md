@@ -5,7 +5,7 @@ This is a list of practical links for working at TPT.
 Please edit this page if you have useful links or scripts to share.
 
 ## TPT administration
-- [Eole](https://eole.telecom-paristech.fr/accueil.php): TPT intranet (_in french_)
+- [Eole](https://eole.telecom-paristech.fr/): TPT intranet (_in french_)
     - You can book a meeting room, find paperwork for travelling to conferences, ...
 - [Zimbra](https://z.mines-telecom.fr/zimbra/mail): TPT webmail
 - [Min&Tel](https://mintel.imt.fr): another TPT intranet (_in french_)
